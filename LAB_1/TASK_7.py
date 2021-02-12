@@ -9,4 +9,4 @@ elif Y%100 == 0:
     else:
         print("normal year")
 else:
-    print("this year is intercalary year")
+    print("this year is intercalary year ")

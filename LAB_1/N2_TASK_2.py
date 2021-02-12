@@ -5,6 +5,7 @@ print("Q = {0}".format(Q))
 counter = (P/100)*3
 print("Percent from {0} is {1}".format(P, counter))
 
-while counter<=Q:
-    add = P + counter
-    print(add)
+while P <= Q:
+    P += counter
+    print(P)
+
