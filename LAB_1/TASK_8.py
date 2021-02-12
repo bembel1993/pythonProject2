@@ -1,4 +1,4 @@
-print("Enter number of FOUR\n ")
+print("Enter number of FOUR")
 print(" and you will know digits this number equals between themselves:")
 a = int(input())
 b = int(input())
