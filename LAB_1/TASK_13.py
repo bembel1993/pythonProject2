@@ -1,4 +1,4 @@
-print("     ENTER QTY MASHROOM: ");
+print("     ENTER QTY MUSHROOM: ");
 K = int(input())
 
 if ((K == 1 or K == 21 or K == 31 or K == 41 or K == 51 or K == 61 or K == 71 or K == 81 or K == 91 or K == 101)
